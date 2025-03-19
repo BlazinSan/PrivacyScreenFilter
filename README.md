@@ -4,5 +4,6 @@ Privacy screen filter program that simulates a privacy screen film to protect yo
 To run the app, install the PrivacyOverlay.exe file and run it, simple as that 😁
 
 ### **Prereqesites:-**
-Download **64-bit** compatible Visual C++ Redistributable Package at: *https://aka.ms/vs/17/release/vc_redist.x64.exe*
-Download **32-bit** compatible Visual C++ Redistributable Package at: *https://aka.ms/vs/17/release/vc_redist.x86.exe*
+
+**!!** Download **64-bit** compatible Visual C++ Redistributable Package at: *https://aka.ms/vs/17/release/vc_redist.x64.exe*                                                                          
+**!!** Download **32-bit** compatible Visual C++ Redistributable Package at: *https://aka.ms/vs/17/release/vc_redist.x86.exe*
