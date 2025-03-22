@@ -10,4 +10,6 @@ To run the app, install the PrivacyOverlay.exe file and run it, simple as that ð
 
 ## Programming Languages Used
 
-- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+| Language | Badge |
+|----------|-------|
+| C++      | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
