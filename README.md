@@ -1,7 +1,7 @@
 # PrivacyScreenFilter
 Privacy screen filter program that simulates a privacy screen film to protect your privacy around others. It is developed using C++ and ran as a windows program.
 
-### **Pictures:-**
+### **Screenshots:-**
 ![image](https://github.com/user-attachments/assets/b1837956-f60b-4505-b3d1-1b6ebeb85231)
 ![image](https://github.com/user-attachments/assets/43e0772a-b82a-425f-9731-699176825c00)
 ![image](https://github.com/user-attachments/assets/ee0f865d-2579-450f-99b6-2a9b00b2bc01)
