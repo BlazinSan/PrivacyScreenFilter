@@ -2,9 +2,10 @@
 Privacy screen filter program that simulates a privacy screen film to protect your privacy around others. It is developed using C++ and ran as a windows program.
 
 ### **Screenshots:-**
-![image](https://github.com/user-attachments/assets/b1837956-f60b-4505-b3d1-1b6ebeb85231)
-![image](https://github.com/user-attachments/assets/43e0772a-b82a-425f-9731-699176825c00)
-![image](https://github.com/user-attachments/assets/ee0f865d-2579-450f-99b6-2a9b00b2bc01)
+![image](https://github.com/user-attachments/assets/ff99f918-1389-448b-b5a4-755417e9ee43)
+![image](https://github.com/user-attachments/assets/f08d6919-c4c4-457f-9e65-505fa92ab028)
+![image](https://github.com/user-attachments/assets/e347e919-6786-4713-9c7d-04b1c93aed98)
+
 
 To run the app, install the PrivacyOverlay.exe file and run it, simple as that 😁
 
