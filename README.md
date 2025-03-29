@@ -17,9 +17,9 @@ To run the app, install the PrivacyOverlay.exe file and run it, simple as that �
 **!!** Download **32-bit** compatible Visual C++ Redistributable Package at: *https://aka.ms/vs/17/release/vc_redist.x86.exe*
 
 ### **To Be Fixed:-**
-1. Black line in the middle of the screen when applying filter
-2. Hotkey not working at all times
-3. Complete UI overhaul
+1. Black line in the middle of the screen when applying filter (FIXED ✅)
+2. Hotkey not working at all times (FIXED ✅)
+3. Complete UI overhaul (FIXED ✅)
 
 
 ## Programming Languages Used
